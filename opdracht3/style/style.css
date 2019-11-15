@@ -1,0 +1,24 @@
+* {
+    font-family:'Bangers', cursive, Arial;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial;
+}
+
+.image1 img {
+}
+
+.image2 img{
+}
+
+.apenphp {
+    color: #ff8400;
+    font-size: 48px;
+}
+
+.apenphp a{
+    text-decoration: none;
+    color: #ff8400;
+}
